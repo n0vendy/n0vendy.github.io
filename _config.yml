@@ -21,7 +21,7 @@ resume_contact_telephone:       "8108453330"
 resume_contact_address:         "1062 Island Dr, Ann Arbor, MI 48105"
 
 resume_header_contact_info:     "1062 Island Dr, Ann Arbor • (810) 845-3330 • samirashalal16@gmail.com"
-display_header_contact_info:    "false"
+display_header_contact_info:    "true"
 
 resume_header_intro: "<p>hello! this website is a wip :P i'm a CS student interested in AI/ML, AI ethics, swe, and game dev. check in soon to see what projects i'm currently working on!</p>"
 
