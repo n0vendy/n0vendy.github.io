@@ -7,11 +7,11 @@
 }
 
 html {
-  background: $white;
+  background: $blue;
 }
 
 body{
-  @include serif;
+  @include Courier;
   color: $text_color;
   font-size: 16px;
   line-height: 1.5;
