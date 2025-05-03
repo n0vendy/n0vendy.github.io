@@ -11,19 +11,19 @@ sass:
 # Resume settings
 resume_avatar:                  "true"
 resume_name:                    "samira shalal"
-resume_title:                   "pursuing B.S. in compsci @ university of michigan"
+resume_title:                   "pursuing B.S. in compsci and cogsci @ university of michigan"
 
 # used for the contact button in _layouts/resume.html
 resume_contact_email:           "samirashalal16@gmail.com"
 
 # the next two items are used for schema itemprops in _layouts/resume.html
 resume_contact_telephone:       "8108453330"
-resume_contact_address:         "1062 Island Dr, Ann Arbor, MI 48105"
+resume_contact_address:         "Detroit, MI"
 
-resume_header_contact_info:     "1062 Island Dr, Ann Arbor • (810) 845-3330 • samirashalal16@gmail.com"
+resume_header_contact_info:     "Detroit, MI • (810) 845-3330 • samirashalal16@gmail.com"
 display_header_contact_info:    "true"
 
-resume_header_intro: "<p>hello! this website is a wip :P i'm a CS student interested in AI/ML, AI ethics, SWE, and game dev. check in soon to see what projects i'm currently working on!</p>"
+resume_header_intro: "<p>hello! this website is a wip :P i'm a junior CS student interested in AI/ML, AI ethics, SWE, and game dev. check in soon to see what projects i'm currently working on!</p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,

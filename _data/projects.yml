@@ -5,5 +5,6 @@
 - project: meet tulio
   role: ⋆.ೃ࿔*:･
   duration: current project!
+  image: /images/tulio128.gif
   # url: "#"
   description: tulio is an AI assistant that runs from my terminal, with the GUI of a desktop pet. inspired by privacy concerns in AI, he is completely offline, allowing me to train him on files containing my personal data without worry. this allows for more personalized feedback. he currently runs with ollama 2, but i'm working on training my own model to give him more personality. when i'm done, i'll release him as an open-source project!
