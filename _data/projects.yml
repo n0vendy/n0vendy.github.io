@@ -8,3 +8,17 @@
   image: /images/tulio128.gif
   # url: "#"
   description: tulio is an AI assistant that runs from my terminal, with the GUI of a desktop pet. inspired by privacy concerns in AI, he is completely offline, allowing me to train him on files containing my personal data without worry. this allows for more personalized feedback. he currently runs with ollama 2, but i'm working on training my own model to give him more personality. when i'm done, i'll release him as an open-source project!
+
+- project: anatomy of a zombie
+  role: ‧͙⁺˚*･༓☾･
+  duration: december 2023
+  # image:
+  url: "https://docs.google.com/presentation/d/11dNxCDRUia75lQqlWEh3Vo-f8nsqfL7hRDXuyyQCBFw/edit?usp=sharing"
+  description: i made AOZ as a combined final project for PAT 305 - video game music and COMPLIT 122 - zombology in the contemporary. it is a simple visual novel with a branching narrative that tells the story of the last moments of humanity in the apocalypse. click the link to play, or see the second slide for all of the tracks i sampled and composed!
+
+- project: demon dance
+  role: ੈ✩‧₊˚･
+  duration: october 2023
+  # image:
+  url: "https://thevoices.itch.io/demon-dance"
+  description: demon dance is a rhythm game i made with a team for WolverineSoft's game jam. my role was designing sound effects and mapping them to the game mechanics and keyboard inputs. it was my first time working with Unity, and i learned a lot about game dev in the process! click the link to play for free on itch.io.

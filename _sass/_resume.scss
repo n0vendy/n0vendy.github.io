@@ -81,7 +81,7 @@
   position: relative;
   top: 4px;
   text-align: center;
-  border-top: 2px solid #c7c7c7;
+  border-top: 2px solid #6e9ab7;
   padding-top: .4rem;
 
   @include media_larger_than_mobile {
@@ -110,7 +110,7 @@
 
 .contact-button {
   @include border-radius(3px);
-  background-color: #efefef;
+  background-color: #6e9ab7;
   text-decoration: none;
   text-align: center;
   display: block;
@@ -177,7 +177,7 @@
 // footer styles
 
 .page-footer {
-  border-top: 4px solid #c7c7c7;
+  border-top: 4px solid #6e9ab7;
   padding-top: 1.5rem;
   text-align: center;
   margin-bottom: 3rem;
@@ -185,7 +185,7 @@
   .footer-line {
     margin: 0;
     font-size: .875rem;
-    color: #999;
+    color: #6e9ab7;
 
     > a {
       font-weight: 700;
