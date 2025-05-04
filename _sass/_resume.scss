@@ -72,6 +72,18 @@
   .executive-summary {
     @include media_larger_than_mobile { font-size: 1.125rem; }
   }
+
+
+  .executive-summary a {
+      color: #6e9ab7;
+      text-decoration: none;
+      border-bottom: 1px solid #6e9ab7;
+    
+      &:hover {
+        color: #9c9c9c;
+        border-bottom: none;
+      }
+  }
 }
 
 .icon-links {
@@ -105,6 +117,10 @@
 
   .icon {
     height: 28px;
+  }
+
+  path {
+    fill: #6e9ab7;
   }
 }
 
